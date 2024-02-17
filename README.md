@@ -1,9 +1,9 @@
 👋 thanks for stopping by! i'm faisal, currently a student at the university of toronto.
 - triple majoring in cs, physics, and math ☝️🤓
-- i love to code.. a lot 💻📚
-- i love quantum computing, machine learning, and studying the millennium problems 🧑‍🔬
-- interested ? checkout my formal website [https://faisals.ca](https://faisals.ca) 🚀
-- even more interested ? checkout my informal website [https://faisals.me](https://faisals.me) 🚀
+- i love to code a lot 
+- i love quantum computing, machine learning, and studying the millennium problems 
+- interested ? checkout my formal website [https://faisals.ca](https://faisals.ca) 
+- even more interested ? checkout my informal website [https://faisals.me](https://faisals.me) 
   
 later. ☮️
 <!---
