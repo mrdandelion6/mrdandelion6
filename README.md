@@ -1,4 +1,4 @@
-👋 thanks for stopping by! i'm faisal, currently a student at the university of toronto.
+👋 thanks for stopping by! i'm faisal, president of the physics club at uoft.
 - triple majoring in cs, physics, and math
 - i love to code a lot 
 - i love quantum computing, machine learning, and studying the millennium problems 
