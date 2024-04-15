@@ -2,7 +2,7 @@
 - triple majoring in cs, physics, and math
 - i like coding. i code ML, fullstack, and low level.
 - im interested in quantum information, deep learning algorithms, and studying the millennium problems.
-- checkout faisals.me
+- checkout https://faisals.me
 
 later. ☮️
 <!---
