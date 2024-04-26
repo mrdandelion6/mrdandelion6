@@ -4,7 +4,7 @@ thanks for stopping by 👋 i'm faisal, president of the physics club at uoft.
 
 \> i like coding. i code ML, fullstack, and low level.
 
-\> im interested in quantum information science, deep learning algorithms, and studying the millennium problems.
+\> im interested in quantum information science, deep learning algorithms, and studying the millennium prize problems.
 
 \> deep learning researcher at uoft data sciences institute and software dev at data annotation
 
