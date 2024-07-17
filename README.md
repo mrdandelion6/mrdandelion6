@@ -2,7 +2,7 @@ thanks for stopping by. i'm faisal, president of the physics club at uoft. 🥼
 
 \> triple majoring in cs, physics, and math
 
-\> i like coding. i code ML, fullstack, and low level.
+\> i like coding. i code ML, data science, fullstack, and low level.
 
 \> im interested in quantum information science, deep learning algorithms, and studying the millennium prize problems.
 
