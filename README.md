@@ -1,6 +1,6 @@
 thanks for stopping by. i'm faisal, president of the physics club at uoft. 🥼
 
-\> triple majoring in cs, physics, and math
+\> triple major in cs, physics, and math
 
 \> i like coding. i code ML, data science, fullstack, and low level.
 
