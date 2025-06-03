@@ -1,12 +1,12 @@
 thanks for stopping by. i'm faisal, president of the physics club at uoft. 🥼
 
-\> triple major in cs, physics, and math
+\> double major in cs, physics, and minor in math
 
-\> i like coding. i code low level, gpu programming, ML, data science, and fullstack stuff.
+\> i like coding. i code everything. low level , gpu programming , ML , data science , and fullstack stuff.
 
 \> im interested in quantum information science, deep learning algorithms, and studying the millennium prize problems.
 
-\> deep learning researcher at uoft data sciences institute and software dev at data annotation
+\> gpu programmer at AMD and contract software engineer at DA
 
 
 later. ☮️
