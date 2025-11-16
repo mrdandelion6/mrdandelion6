@@ -1,14 +1,12 @@
-thanks for stopping by. i'm faisal.
+thanks for stopping by. i'm faisal. i like to snowboard and i like cats. i also like pure math.
 
-\> triple major in cs, physics, and math
-
-\> i like coding. i code many things. gpu programming , low level , quantum computing , data science , and fullstack stuff.
-
-\> im mostly interested in quantum computing , gpu programming , and studying the millennium prize problems.
-
-\> gpu programmer at AMD and TA at UofT
-
-\> i like to snowboard and i like cats
+  \> triple major in cs, physics, and math
+  
+  \> i like coding. i code many things. gpu , low level , quantum , data science , and fullstack stuff.
+  
+  \> i'm interested in quantum computing , gpu programming , and studying the millennium prize problems.
+  
+  \> gpu programmer at amd and ta at uoft
 
 
 later. ☮️
