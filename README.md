@@ -4,11 +4,11 @@ thanks for stopping by. i'm faisal.
 
 \> i like coding. i code many things. gpu programming , low level , quantum computing , data science , and fullstack stuff.
 
-\> im interested in quantum computing , gpu programming , and studying the millennium prize problems.
+\> im mostly interested in quantum computing , gpu programming , and studying the millennium prize problems.
 
 \> gpu programmer at AMD and TA at UofT
 
-\> i like to snowboard
+\> i like to snowboard and i like cats
 
 
 later. ☮️
