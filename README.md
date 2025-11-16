@@ -1,4 +1,4 @@
-thanks for stopping by. i'm faisal, president of the physics club at uoft. 🥼
+thanks for stopping by. i'm faisal.
 
 \> triple major in cs, physics, and math
 
