@@ -6,7 +6,7 @@ thanks for stopping by. i'm faisal. i like to snowboard and i like cats. i also 
   
   \> i'm mostly interested in quantum computing , gpu programming , and studying the millennium prize problems.
   
-  \> gpu programmer at amd and ta at uoft
+  \> gpu arch at nvidia
 
 
 later. ☮️
