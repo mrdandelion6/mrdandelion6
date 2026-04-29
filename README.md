@@ -1,6 +1,6 @@
 thanks for stopping by. i'm faisal. i like to snowboard and i like cats. i also like pure math.
 
-  \> triple major in cs, physics, and math
+  \> double major in cs, physics
   
   \> i like coding. i code many things. gpu , low level , quantum , data science , and fullstack stuff.
   
