@@ -2,14 +2,14 @@ thanks for stopping by. i'm faisal. i like to snowboard and i like cats. i also 
 
   \> double major in cs, physics
   
-  \> i like coding. i code many things. gpu , low level , quantum , data science , and fullstack stuff.
+  \> i like coding. i code many things.
   
-  \> i'm mostly interested in quantum computing , gpu programming , and studying the millennium prize problems.
+  \> i'm mostly interested in quantum computing , gpu arch + programming , and cfd.
   
   \> gpu arch at nvidia
 
 
-later. ☮️
+later ☮️
 
 
 <a href='https://www.linkedin.com/in/faisal-shaik/' alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-004080?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:faisal.shaik@mail.utoronto.ca" alt="Contact me"><img src="https://custom-icon-badges.demolab.com/badge/-Email-7B0E0E?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href='https://faisals.me' alt="Website"><img src="https://custom-icon-badges.demolab.com/badge/-Website-203030?style=for-the-badge&logo=globe&logoColor=white"></a>
