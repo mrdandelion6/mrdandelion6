@@ -1,4 +1,4 @@
-thanks for stopping by. i'm faisal. i like to snowboard and i like cats. i also like pure math.
+thanks for stopping by. i'm faisal. i like cats , snowboards , and motorcycles
 
   \> double major in cs, physics
   
